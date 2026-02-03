@@ -1,2 +1,2 @@
 # demo-
-First git and github demo class
+First git and github demo class.
